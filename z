@@ -8,6 +8,16 @@ Area de ensayo (Staging area)
 
 #3
 Repositorio local
-    git commit -m "Description the project" 
+    git commit -m "Project description" 
 
-/*OJO - Cuando modificamos algún archivo html, css, js, etc. Tenemos que repetir todos los pasos del 1 al 3 solo cambiando la descripción*/
+/*OJO - Cuando modificamos algún archivo html, css, js, etc. Tenemos que repetir los pasos del 2 al 3 solo cambiando la Project description*/
+
+#git log --oneline //Este comando nos ayuda para listar todos los commit que emos realizado
+
+#4
+Crear nuevas ramas o branch
+    git branch NombreDeLaRama
+    git checkout NombreDeLaRama //Cambiamos de rama de trabajo
+    git branch //Podemos ver las ramas que tenemos creadas
+    git merge NombreDeLaRamaSecundaria //Unimos los trabajos de la rama secundaria a la master
+    git branch -D NombreDeLaRama //Eliminar un branch
