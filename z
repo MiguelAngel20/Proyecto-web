@@ -1,8 +1,13 @@
 #1
-Iniciar con git
+Iniciar con git "Directorio"
     git init
 
 #2
 Area de ensayo (Staging area)
     git add . Agregamos todo
 
+#3
+Repositorio local
+    git commit -m "Description the project" 
+
+/*OJO - Cuando modificamos algún archivo html, css, js, etc. Tenemos que repetir todos los pasos del 1 al 3 solo cambiando la descripción*/
