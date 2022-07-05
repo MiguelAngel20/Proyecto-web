@@ -1,0 +1,8 @@
+#1
+Iniciar con git
+    git init
+
+#2
+Area de ensayo (Staging area)
+    git add . Agregamos todo
+
