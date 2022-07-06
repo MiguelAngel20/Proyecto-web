@@ -21,8 +21,16 @@ Crear nuevas ramas o branch
     git branch //Podemos ver las ramas que tenemos creadas
     git merge NombreDeLaRamaSecundaria //Unimos los trabajos de la rama secundaria a la master
     git branch -D NombreDeLaRama //Eliminar un branch
+<<<<<<< HEAD
 
 #5
 Subir un proyecto a GITHUB
     git remote add origin https://github.com/MiguelAngel20/Proyecto-web.git
     git push origin master
+=======
+    
+#5
+Subir un proyecto a GITHUB
+    git remote add origin https://github.com/MiguelAngel20/Proyecto-web.git
+    git push origin master
+>>>>>>> 6ce59a3fdead5aee06119789ba30e4cb84f839e9
