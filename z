@@ -29,8 +29,8 @@ Subir un proyecto a GITHUB
     git push origin master
 =======
     
-#5
-Subir un proyecto a GITHUB
-    git remote add origin https://github.com/MiguelAngel20/Proyecto-web.git
-    git push origin master
->>>>>>> 6ce59a3fdead5aee06119789ba30e4cb84f839e9
+#6
+Actualizar en GITHUB
+    git add .
+    git commit Descripcion
+    git push origin master --force
