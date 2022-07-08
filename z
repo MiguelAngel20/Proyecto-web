@@ -33,4 +33,5 @@ Subir un proyecto a GITHUB
 Actualizar en GITHUB
     git add .
     git commit Descripcion
+    git push https://github.com/MiguelAngel20/Proyecto-web-C
     git push origin master --force
