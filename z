@@ -28,10 +28,15 @@ Subir un proyecto a GITHUB
     git remote add origin https://github.com/MiguelAngel20/Proyecto-web.git
     git push origin master
 =======
-    
+
 #6
 Actualizar en GITHUB
     git add .
     git commit Descripcion
     git push https://github.com/MiguelAngel20/Proyecto-web-C
     git push origin master --force
+
+#7
+Clonar un repositorio
+    git init
+    git clone https://github.com/MiguelAngel20/Proyecto-web-C
